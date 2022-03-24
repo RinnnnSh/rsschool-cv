@@ -48,7 +48,7 @@ function threeInOne(arr){
 I have little experience in Web development.
 Examples of my work:
 - [CultureNews](https://RinnnnSh.github.io/CultureNews/)
-- [Mountain1](https://RinnnnSh.github.io/Mountain1/)
+- [Mountain](https://RinnnnSh.github.io/Mountain1/)
 - [CatEnergy](https://RinnnnSh.github.io/CatEnergy/)
 
 ## Languages
