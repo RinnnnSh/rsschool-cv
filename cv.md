@@ -4,7 +4,7 @@
 ## Contacts
 
 + Location: Kaluga, Russia
-+ Phone: +7 910 526 85 08
++ Phone: +7 910 526 85 09
 + Email: irina_shaman@mail.ru
 + GitHub: RinnnnSh
 
